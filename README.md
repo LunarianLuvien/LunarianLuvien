@@ -3,7 +3,7 @@
 
 - currently learning **Deep Learning**
 
-- interested in **Artificial Intelligence, Machine Learning Learning, OOP**
+- interested in **Artificial Intelligence, Machine Learning, OOP**
 
 <p align="left">
 </p>
