@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm Ahmet Memis</h1>
 <h3 align="center">Computer Engineering student at Ege University</h3>
 
-- • currently learning **Deep Learning**
+- currently learning **Deep Learning**
 
-- • interested in **Artificial Intelligence, Machine Learning Learning, OOP**
+- interested in **Artificial Intelligence, Machine Learning Learning, OOP**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
