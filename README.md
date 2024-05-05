@@ -5,7 +5,7 @@
 
 - interested in **Artificial Intelligence, Machine Learning, OOP**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/lunaluvien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lunaluvien" height="30" width="40" /></a>
 </p>
