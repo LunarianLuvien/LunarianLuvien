@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Ahmet!</h1>
 <h3 align="center">Computer Engineering Student at Ege University</h3>
 
-- currently learning **Deep Learning**
-
 - interested in **Artificial Intelligence, Machine Learning, OOP**
+- currently working on **Machine Learning** related projects
 
 <h3 align="left">Socials:</h3>
 <p align="left">
